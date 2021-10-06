@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "enter a year"
+read year
+year= $y
+
+
+
+if[$a -eq 0 -a $b -ne - -o $c -eq 0]
+then 
+echo "$y is leap year"
+else
+echo "$y is not a leap year"
+
+fi
